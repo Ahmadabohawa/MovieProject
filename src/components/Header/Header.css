@@ -1,0 +1,24 @@
+.header{
+    background-color:#1a242f;
+    height: 100px;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.logo{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.user-image,.user-image img{
+    width: 50px;
+    height: 50px;
+    border-radius: 4px;
+    
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
