@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieProject/static/css/main.eeb1a010.css",
+    "main.js": "/MovieProject/static/js/main.60d0f02c.js",
+    "static/media/baby.jpg": "/MovieProject/static/media/baby.526710170cb409c92eb1.jpg",
+    "index.html": "/MovieProject/index.html",
+    "main.eeb1a010.css.map": "/MovieProject/static/css/main.eeb1a010.css.map",
+    "main.60d0f02c.js.map": "/MovieProject/static/js/main.60d0f02c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb1a010.css",
+    "static/js/main.60d0f02c.js"
+  ]
+}
